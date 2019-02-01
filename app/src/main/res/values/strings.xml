@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">What a great movie!</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="information">Information</string>
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+    <string name="username">Username</string>
+    <string name="go">Go!</string>
+    <string name="error_enter_username">Please enter username</string>
+    <string name="error_invalid_login">Please only introduce numbers,letters and underscore.</string>
+    <string name="username_not_found">Username was not found</string>
+    <string name="create_new_user_message" formatted="false">Do you want to create a new user with username: %s?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="error_creating_user">Error creating user</string>
+    <string name="welcome">Welcome</string>
+    <string name="movies">Movies</string>
+    <string name="favorites">Favorites</string>
+    <string name="logout">Logout</string>
+    <string name="genres">Genres:</string>
+    <string name="director">Director</string>
+    <string name="main_star">Main star:</string>
+    <string name="description">Description:</string>
+    <string name="no_internet_error">Please, check your internet connection and try again.</string>
+</resources>
